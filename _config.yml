@@ -1,6 +1,6 @@
 domain: example.com
 url: https://example.com
-baseurl: "/wind"
+baseurl: "/literary-library"
 
 title: Wind
 email: wind@example.com
