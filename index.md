@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Helloooo
 
-Hello World. Hello Friend.
+Hello darkness, my old friend.
 
