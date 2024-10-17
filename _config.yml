@@ -2,7 +2,7 @@ domain: example.com
 url: https://example.com
 baseurl: "/literary-library"
 
-title: Wind
+title: Literary Library
 email: wind@example.com
 author: Wind Sample
 
