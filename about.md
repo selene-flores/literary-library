@@ -2,15 +2,14 @@
 title: about
 layout: page
 ---
-## Modo nostra
+## Purpose
 
-Lorem markdownum mihi; hic sonantem tenebat telum successu mollierant inani
-avoque. Harena et laedor bisque moenia veniat facit lebetes tum non?
+Watch TikTok reels, browse the web for unnecessary items, eat large quantities of food for the sake of being a "foodie." We live in a world where consumption is glorified. We take and take and produce little in return, aside from our carbon footprints that is.
 
-> Iunctissima lapsus illis; venit protervis exequialia absit tristia et
-> **locum** cum ut ad convertor tamen. Ad mea cui! Pedibus sit inque quaerit [ac
-> eadem](http://clamavit.io/), quid, aurum quam videt ille. Aiax harenam, et
-> salices equos, captis, Iovis.
+I want to create. I want to write words on a page, make them come to life, use them to embody my emotions. 
+
+Stephen King once wrote,
+> Get busy **living** or get busy dying
 
 ## Cumque ardor
 
