@@ -1,3 +1,5 @@
 ---
-layout: page
+layout: home
 ---
+
+Bonjour mon amis
