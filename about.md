@@ -2,30 +2,15 @@
 title: about
 layout: page
 ---
-## Purpose
+## Welcome
 
-Watch TikTok reels, browse the web for unnecessary items, eat large quantities of food for the sake of being a "foodie." We live in a world where consumption is glorified. We take and take and produce little in return, aside from our carbon footprints that is.
+Here, I will offload my literary work. These works will span varying genres including short stories, 
 
-I want to create. I want to write words on a page, make them come to life, use them to embody my emotions. 
+As I maintain this site, my goal is to:
+    - enhance my writing through practice
+    - familiarize myself with web development
+    - share my work with you.
 
-Stephen King once wrote,
-> Get busy **living** or get busy dying
+If you are going through a tough time, know that you are not alone. Please send me a message if you need help or want to talk.
 
-## Cumque ardor
-
-Suspiria seque sui quot, stare non profuso adsensere ignibus. Nata nomen rude
-veniam. Colore alta avido, relicta obnoxia vivosque Ereboque animosque meae,
-festas, Cythereia tu stare scitusque. Indefessus urbes eodem tuo liceat dives
-Telamonius nobis aetheriae, illam, in heu idemque **an**.
-
-    key(gigabyteHoverClick - kilohertz, latencyPad);
-    process_password(heap_barcraft_file(matrix - dos_icio_blacklist,
-            exploitScsiVdu), activex * raid, cdmaVfatNvram + direct);
-    if (2 != surgeMemeConstant + 4) {
-        enterprise_so_gps += -1;
-        task(19 + primary_dvd_ruby, oasis_drive);
-    } else {
-        networking_path_box = protocolAndStack(5, 1, drop_rom) + dns_tft(29, -3,
-                emulation);
-    }
-
+Ily 
