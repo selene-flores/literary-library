@@ -1,5 +1,4 @@
 ---
 layout: home
+title: landing
 ---
-
-### Hello darkness, my old friend
